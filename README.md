@@ -1,5 +1,8 @@
 # Chemistry-Murder-Mystery
-Hello there! Are you ready to solve a murder case using your chemistry knowledge? Well, this is the perfect game for you. You can solve the mystery using what you learned in chemistry class such as drawing Lewis Dot Structure! Get ready detective, we are all counting on you.
+Hello there! Are you ready to solve a murder case using your chemistry knowledge? 
+Well, this is the perfect game for you. You can solve the mystery using what you learned in chemistry class such as drawing Lewis Dot Structure! 
+
+Get ready detective, we are all counting on you.
 
 # Dependencies
 1. Python 3.7 (https://www.python.org/downloads/)                         
