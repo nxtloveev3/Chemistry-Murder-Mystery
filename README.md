@@ -1,5 +1,5 @@
 # Chemistry-Murder-Mystery
-Solve the mystery while learning some chemistry
+Hello there! Are you ready to solve a murder using your chemistry knowledge? Well, this is the perfect game for you. You can solve the mystery while learning some chemistry such as drawing Lewis Dot Structure! Get ready detective, we are all counting on you.
 
 # Dependencies
 1. Python 3.7 (https://www.python.org/downloads/)                         
